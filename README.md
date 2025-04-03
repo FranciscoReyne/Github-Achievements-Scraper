@@ -49,7 +49,7 @@ How to automate each achievement using Python:
 ---
 
 
-# 🔹According with previous Important Notes, the next table has an additional column indicating the potential risk of violating GitHub’s policies:
+# 🔹table with column indicating the potential risk of violating GitHub’s policies:
 
 
 
