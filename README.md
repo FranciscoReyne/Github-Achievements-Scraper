@@ -1,4 +1,4 @@
-# GitHub Achievements Scraper💡 
+# GitHub Achievements Scraper
 
 
 
@@ -50,6 +50,6 @@ How to automate each achievement using Python:
 # Good luck !!
 Buena suerte !!
 
-by FranciscoReyne
+by FranciscoReyne 💡 
 
 
