@@ -7,7 +7,7 @@ To unlock GitHub achievements we need to identify which ones exist and what acti
 
 ---
 
-### 🎖 List of some Achievements and How to Unlock Them  
+### List of some Achievements and How to Unlock Them  
 | **Achievement**        | **How to unlock it** |
 |----------------------|--------------------------------|
 | **Arctic Code Vault** | Contribute to public repositories before 2020. |
@@ -47,7 +47,7 @@ How to automate each achievement using Python:
 
 ---
 
-# Good luck !!
+# 🎖 Good luck !!
 Buena suerte !!
 
 by FranciscoReyne 💡 
