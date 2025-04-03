@@ -21,7 +21,7 @@ To unlock GitHub achievements we need to identify which ones exist and what acti
 
 ---
 
-### 🔹 Automating with Python  
+##🔹 Automating with Python  
 How to automate each achievement using Python:
 
 ---
