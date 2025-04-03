@@ -3,11 +3,11 @@
 
 
 ## 🔹 Plan of Action  
-To unlock all GitHub achievements, we need to identify which ones exist and what actions trigger them. Then, we can automate these actions using Python.  
+To unlock GitHub achievements we need to identify which ones exist and what actions trigger them. Then, we can automate these actions using Python.  
 
 ---
 
-### 🎖 List of Achievements and How to Unlock Them  
+### 🎖 List of some Achievements and How to Unlock Them  
 | **Achievement**        | **How to unlock it** |
 |----------------------|--------------------------------|
 | **Arctic Code Vault** | Contribute to public repositories before 2020. |
