@@ -5,7 +5,6 @@
 ## 🔹 Plan of Action  
 To unlock GitHub achievements we need to identify which ones exist and what actions trigger them. Then, we can automate these actions using Python.  
 
----
 
 ### List of some Achievements and How to Unlock Them  
 | **Achievement**        | **How to unlock it** |
@@ -19,12 +18,11 @@ To unlock GitHub achievements we need to identify which ones exist and what acti
 | **Galaxy Brain** | Answer questions in GitHub Discussions. |
 | **Starstruck** | Have a repository with many stars. |
 
----
 
-## 🔹 Automating with Python  
+
+#🔹 Automating with Python  
 How to automate each achievement using Python:
 
----
 
 | **Achievement**          | **How to Unlock It**                                                                                 | **How to Automate with Python** |
 |-------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------|
@@ -38,18 +36,21 @@ How to automate each achievement using Python:
 | **Mars 2020 Contributor** | Contribute to repositories supporting NASA’s Mars 2020 mission.                                  | Identify and manually contribute to Mars 2020-related repositories. Automating contributions may not be effective or ethical. |
 | **Arctic Code Vault Contributor** | Contribute to public repositories before February 2020.                                 | This achievement is time-limited and can no longer be obtained. |
 
----
 
 **Important Notes**:
 
 - **Automating certain actions on GitHub may violate [GitHub’s Acceptable Use Policies](https://docs.github.com/en/site-policy/github-terms/github-acceptable-use-policies)**. Ensure that any automation complies with these policies and does not constitute abuse or unethical behavior.
 - **Many GitHub achievements are designed to encourage genuine participation and collaboration**. While automation is technically possible for some, it is strongly recommended to earn them organically.
 
----
-
-## 🔹According with previous Important Notes, the next table has an additional column indicating the potential risk of violating GitHub’s policies:
 
 ---
+
+---
+
+
+# 🔹According with previous Important Notes, the next table has an additional column indicating the potential risk of violating GitHub’s policies:
+
+
 
 | **Achievement**          | **How to Unlock It**                                                                                 | **How to Automate with Python** | **Risk of Violating GitHub Policies** |
 |-------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------|---------------------------------------|
@@ -63,13 +64,21 @@ How to automate each achievement using Python:
 | **Mars 2020 Contributor** | Contribute to repositories supporting NASA’s Mars 2020 mission.                                  | Identify and manually contribute to Mars 2020-related repositories. Automating contributions may not be ethical. | **Medium** – Spammy or low-quality contributions can be flagged. |
 | **Arctic Code Vault Contributor** | Contribute to public repositories before February 2020.                                 | This achievement is time-limited and can no longer be obtained. | **N/A** – No longer possible to earn. |
 
----
+
+
+
 
 ### **Key Takeaways**:
 - **Some actions (e.g., starring repos with bots, spamming PRs, or auto-replying in discussions) are clear policy violations** and may result in GitHub account restrictions.
 - **Other actions, such as automating PR creation or closing issues, are fine if used ethically** (e.g., real bug fixes, actual contributions).
 - **Earning achievements naturally is the safest approach**, but automation can assist in legitimate workflows.
 
+
+
+---
+
+
+---
 
 # 🎖 Good luck !!
 Buena suerte !!
