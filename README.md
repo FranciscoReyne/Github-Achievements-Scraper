@@ -1,8 +1,8 @@
 # GitHub Achievements Scraper
 
+🔹 🔹 🔹 
 
-
-## 🔹 Plan of Action  
+## Plan of Action  
 To unlock GitHub achievements we need to identify which ones exist and what actions trigger them. Then, we can automate these actions using Python.  
 
 
@@ -20,7 +20,7 @@ To unlock GitHub achievements we need to identify which ones exist and what acti
 
 
 
-##  🔹 Automating with Python  
+##  Automating with Python  
 
 How to automate each achievement using Python:
 
@@ -49,7 +49,7 @@ How to automate each achievement using Python:
 ---
 
 
-# 🔹table with column indicating the potential risk of violating GitHub’s policies:
+# Table with column indicating the potential risk of violating GitHub’s policies:
 
 
 
