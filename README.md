@@ -21,7 +21,7 @@ To unlock GitHub achievements we need to identify which ones exist and what acti
 
 ---
 
-##🔹 Automating with Python  
+## 🔹 Automating with Python  
 How to automate each achievement using Python:
 
 ---
@@ -47,7 +47,7 @@ How to automate each achievement using Python:
 
 ---
 
-## 🔹According with previous Important Notes, I create a Table with an additional column indicating the potential risk of violating GitHub’s policies:
+## 🔹According with previous Important Notes, the next table has an additional column indicating the potential risk of violating GitHub’s policies:
 
 ---
 
